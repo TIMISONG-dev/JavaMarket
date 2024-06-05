@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FBC02D</color> <!-- Material You Yellow 500 -->
+    <color name="colorPrimaryVariant">#dea926</color> <!-- Material You Yellow 600 -->
+    <color name="colorSecondary">#e0a40d</color> <!-- Material You Yellow 700 -->
+
+    <color name="colorBackground">#fcf8eb</color>
+    <color name="colorSurface">#fcf8eb</color>
+    <color name="colorError">#B00020</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorOnSecondary">#000000</color>
+    <color name="colorOnSecondaryContainer">#201135</color>
+    <color name="colorOnBackground">#000000</color>
+    <color name="colorOnSurface">#000000</color>
+    <color name="colorOnError">#FFFFFF</color>
+
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#03DAC6</color>
+    
+    <color name="colorTextSelected">#000000</color>
+    <color name="colorIconSelected">#000000</color>
+    <color name="colorIconUnSelected">#000000</color>
+    <color name="colorBgItemSelected">#fce7a7</color>
+</resources>
